@@ -3,35 +3,12 @@
     {
       "question": "How do I register?",
       "answer": "Applications are closed now. Keep an eye out and follow our socials for updates!"
-    },
-    {
-      "question": "Do I need experience to apply?",
-      "answer": "No! We're open to beginners and experienced hackers, and we're especially looking for students who are just starting out in the field of tech for our beginner stream."
-    },
-    {
-      "question": "Do I need an idea before the hackathon?",
-      "answer": "No! You'll have time and support during the hackathon to create and refine your ideas. Feel free to start brainstorming now, but keep in mind that our problem statements will only be announced at our opening ceremonies."
     }
   ],
   "general": [
     {
-      "question": "What are important dates to keep in mind?",
-      "answer": "Hacker, mentor, and volunteer applications are open now and will close on June 20, 2025. Application results will be released within a week, and Hack404 itself is taking place on July 4–6, 2025!"
-    },
-    {
-      "question": "What's the schedule for the event?",
-      "answer": "Our schedule will be announced soon! To keep up with the latest news about Hack404, follow our Instagram - @hack404.dev.",
-      "hasLink": true,
-      "linkText": "@hack404.dev",
-      "linkUrl": "https://www.instagram.com/hack404.dev/"
-    },
-    {
       "question": "I've never been to a hackathon before, what can I expect?",
       "answer": "We'd love to have you! A hackathon is a 36-hour event where hundreds of students come together to build technical projects. For our beginner stream, you'll attend 3–5 workshops where you'll be guided through different 'mini-hacks' from start to finish. For our regular stream, you'll have the full 36 hours to work on a project, with exciting workshops, activities, and mentorship support available."
-    },
-    {
-      "question": "Will there be mentors to help?",
-      "answer": "Yes! Hack404 is bringing in skilled mentors from a variety of disciplines in tech, covering a wide range of expertise. They'll be your go-to points of contact for help, whether that's support with debugging, ideating, refining your pitch, or something else! Plus, for our beginner stream, we'll have mentors dedicated to individual teams, helping you build from start to finish."
     },
     {
       "question": "What makes Hack404 unique?",
@@ -43,7 +20,7 @@
     },
     {
       "question": "How is Power Unit Youth Organization involved?",
-      "answer": "Power Unit Youth Organization is a youth-driven non-profit organization based in Markham. It empowers youth-led initiatives – past hits have included Night It Up!, a night market; the E3 challenge, a business case competition; and the Level Up Conference, a career conference. Hack404 is PUYO's latest initiative.",
+      "answer": "Power Unit Youth Organization (link) is a youth-driven non-profit organization based in Markham. Founded in 2002, it empowers youth-led initiatives – past hits have included night market Night It Up!, business case competition the E3 challenge, and career conference Level Up. Hack404 is PUYO's latest initiative. PUYO is dedicated to youth development, empowerment, and philanthropy, and has a proven track record of over 1000 trained youth leaders and $143,000 donated to local charities.",
       "hasLink": true,
       "linkText": "Power Unit Youth Organization",
       "linkUrl": "https://www.power-unit.org/"

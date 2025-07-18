@@ -201,57 +201,6 @@ export default function ResponsiveLayout() {
 
             <HBorder />
 
-            {/* Event Structure */}
-            <TextSection titleWidth={1} contentWidth={4}>
-              <TextSectionTitle>Event Structure</TextSectionTitle>
-            </TextSection>
-
-            <TextSection
-              titleWidth={1}
-              contentWidth={4}
-              className="py-4 tablet:py-4 desktop:py-4"
-            >
-              <TextSectionTitle className="font-(family-name:--font-heading-light) gradient-text">
-                Beginner stream
-              </TextSectionTitle>
-              <TextSectionContent>
-                Beginner teams will attend 3-5 workshops throughout the weekend,
-                creating &apos;mini-hacks&apos; rather than a single large
-                project. Then, they&apos;ll be judged portfolio-style, where
-                they showcase their top 3 mini-hacks and are evaluated based on
-                their technical execution, creativity, and innovation.
-              </TextSectionContent>
-            </TextSection>
-
-            <TextSection titleWidth={1} contentWidth={4}>
-              <TextSectionTitle className="font-(family-name:--font-heading-light) gradient-text">
-                Regular stream
-              </TextSectionTitle>
-              <TextSectionContent>
-                Hackers will have 36 hours to create an innovative project in
-                line with our three pillars—education, innovation, and
-                community—and a problem statement that will be announced during
-                opening ceremonies. We&apos;ll also be hosting activities and
-                workshops throughout the weekend!
-              </TextSectionContent>
-            </TextSection>
-
-            <HBorder />
-
-            {/* Who can participate? */}
-            <TextSection titleWidth={1} contentWidth={4}>
-              <TextSectionTitle>Who can participate?</TextSectionTitle>
-              <TextSectionContent>
-                Hack404 is for students, by students. Whether you&apos;re a
-                beginner hacker or have been to 10+ hackathons, we&apos;d love
-                for you to continue to innovate at Hack404. We welcome
-                applications from high school and post-secondary students, as
-                well as those who graduated in 2025.
-              </TextSectionContent>
-            </TextSection>
-
-            <HBorder />
-
             {/* FAQ Section */}
             <TextSection
               titleWidth={1}
@@ -332,59 +281,6 @@ export default function ResponsiveLayout() {
                 and building to create projects that excite them. We&apos;re
                 focused on our three pillars: education, innovation, and
                 community.
-              </TextSectionContent>
-            </TextSection>
-
-            <HBorder />
-
-            {/* Event Structure */}
-            <TextSection titleWidth={1} contentWidth={3}>
-              <TextSectionTitle>Event Structure</TextSectionTitle>
-            </TextSection>
-
-            <TextSection
-              titleWidth={1}
-              contentWidth={3}
-              className="py-4 tablet:py-4 desktop:py-4"
-            >
-              <TextSectionTitle className="font-(family-name:--font-heading-light) gradient-text">
-                Beginner stream
-              </TextSectionTitle>
-              <TextSectionContent>
-                Beginner teams will attend 3-5 workshops throughout the weekend,
-                creating &apos;mini-hacks&apos; rather than a single large
-                project. Then, they&apos;ll be judged portfolio-style, where
-                they showcase their top 3 mini-hacks and are evaluated based on
-                their technical execution, creativity, and innovation.
-              </TextSectionContent>
-            </TextSection>
-
-            <TextSection titleWidth={1} contentWidth={3}>
-              <TextSectionTitle className="font-(family-name:--font-heading-light) gradient-text">
-                Regular stream
-              </TextSectionTitle>
-              <TextSectionContent>
-                Hackers will have 36 hours to create an innovative project in
-                line with our three pillars—education, innovation, and
-                community—and a problem statement that will be announced during
-                opening ceremonies. We&apos;ll also be hosting activities and
-                workshops throughout the weekend!
-              </TextSectionContent>
-            </TextSection>
-
-            <HBorder />
-
-            {/* Who can participate? */}
-            <TextSection titleWidth={1} contentWidth={3}>
-              <TextSectionTitle className="break-all">
-                Who can participate?
-              </TextSectionTitle>
-              <TextSectionContent>
-                Hack404 is for students, by students. Whether you&apos;re a
-                beginner hacker or have been to 10+ hackathons, we&apos;d love
-                for you to continue to innovate at Hack404. We welcome
-                applications from high school and post-secondary students, as
-                well as those who graduated in 2025.
               </TextSectionContent>
             </TextSection>
 
@@ -562,6 +458,13 @@ export default function ResponsiveLayout() {
                 className="text-2xl font-(family-name:--font-heading-light) gradient-text leading-relaxed hover:opacity-80 transition-opacity block mb-8"
               >
                 support@hack404.dev
+              </a>
+
+              <a
+                href="mailto:info@power-unit.org"
+                className="text-2xl font-(family-name:--font-heading-light) gradient-text leading-relaxed hover:opacity-80 transition-opacity block mb-8"
+              >
+                info@power-unit.org
               </a>
 
               <h2 className="font-(family-name:--font-heading) text-5xl leading-[52.80px] mb-6">
